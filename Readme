@@ -1,0 +1,5 @@
+To make this project work, you need add your folder/root or domain URL and SMTP account add into config.php. For SMS Getway Api go to verify.php in classes folder and add your api hash. Database sql file is added to database folder 
+
+For update and requestes check www.facebook.com/itsAizazdinho or twitter.com/aizazdinho
+For tutorials www.meralesson.com
+For Twitter clone get discount here : https://www.udemy.com/create-a-high-end-social-network-like-twitter-in-php-mysql/?couponCode=TWEETY-FROM-FB

@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^account/settings/?$ settings.php
+RewriteRule ^register/?$ register.php
+RewriteRule ^verification/?$ verification.php
+RewriteRule ^verification/phone/?$ verifyCode.php
+RewriteRule ^verification/([a-zA-Z0-9]+)/?$ verification.php?verify=$1
+RewriteRule ^account/recover/?$ recover.php
+RewriteRule ^account/recover/([a-zA-Z0-9]+)/?$ recover.php?verify=$1
+
